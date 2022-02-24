@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+header .benito {
+    margin-left: 85%;
+    align-content: center;
+    margin-bottom: 10%;
+   
+    
+}
+.ab {
+    width: 20px;
+}
+.fatima {
+   text-align: center;
+  
+}
+.tr{
+    background-color: blue;
+    color: #fff;
+}
+
+.bbb{
+   
+}
+
+
+input{
+    width: 400px;
+    border-radius: 50px;
+    background-image: url(micro.png);
+    background-size: 10px;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+footer{
+    background-color: rgb(155, 154, 154);
+   
+    
+    justify-content: space-between;
+    margin-top: 55%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+.droite{
+    text-align: right;
+}
+
